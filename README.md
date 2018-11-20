@@ -6,7 +6,7 @@ Are you looking forward to BLACK FRIDAY as a great opportunity or are you scared
 
 - Do you know if your digital channels can handle the load on this top day?
 - Are you sure about that the experience of your customers is still optimal during these high traffic spikes?
-- What are the consequence of performance degradation?
+- What are the consequences of performance degradation?
 - Where are you looking at on your monitor screens? Backend metrics, transactions? What are they telling about the end-to-end user experience?
 
 In order to gain real insights into the user experience of your visitors and potential customers, you thoroughly need Digital Experience Monitoring which tracks all end-to-end flows.
@@ -23,7 +23,9 @@ Let’s not think black and let’s assume that you will survive and even do som
 
 With our Digital Experience Monitoring offering based on Dynatrace you have the answer to all these questions which enables you to excel in your market.
 
-[Let us help you!](https://www.realdolmen.com/en/solution/dynatrace-for-performance-management)
+[Let us help you!](https://www.realdolmen.com/en/solution/dynatrace-for-performance-management) [Or try it yourself.](https://www.dynatrace.com/trial/?promocode=REALDOLMEN)
+
+[<img src="./2701_SI_SaasTrialCo-branded_RealDolmen_TW_1024x512_Final.png" width="300px">](https://www.dynatrace.com/trial/?promocode=REALDOLMEN)
 
 <img src="./black-friday-dashboard.PNG">
 
