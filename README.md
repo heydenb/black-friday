@@ -27,6 +27,4 @@ With our Digital Experience Monitoring offering based on Dynatrace you have the 
 
 [<img src="./2701_SI_SaasTrialCo-branded_RealDolmen_TW_1024x512_Final.png" width="300px">](https://www.dynatrace.com/trial/?promocode=REALDOLMEN)
 
-<img src="./black-friday-dashboard.PNG">
-
-<img src="./black-friday.png">
+<img src="./both-bf-screenshots.png">
