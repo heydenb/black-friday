@@ -1,3 +1,5 @@
+<img src="./logo.svg" align="right">
+
 ## BLACK FRIDAY, great opportunity or frightening ???
 
 Are you looking forward to BLACK FRIDAY as a great opportunity or are you scared that your webshop won’t hold it?
@@ -22,3 +24,5 @@ Let’s not think black and let’s assume that you will survive and even do som
 With our Digital Experience Monitoring offering based on Dynatrace you have the answer to all these questions which enables you to excel in your market.
 
 [Let us help you!](https://www.realdolmen.com/en/solution/dynatrace-for-performance-management)
+
+<img src="./black-friday-dashboard.PNG">
