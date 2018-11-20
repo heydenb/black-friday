@@ -19,12 +19,6 @@ In order to gain real insights into the user experience of your visitors and pot
 
 Let’s not think black and let’s assume that you will survive and even do some great business. What do you learn from your customers to improve your digital platform even more?
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
 With our Digital Experience Monitoring offering based on Dynatrace you have the answer to all these questions which enables you to excel in your market.
 
-Let us help you!
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[Let us help you!](https://www.realdolmen.com/en/solution/dynatrace-for-performance-management)
