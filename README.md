@@ -26,3 +26,5 @@ With our Digital Experience Monitoring offering based on Dynatrace you have the 
 [Let us help you!](https://www.realdolmen.com/en/solution/dynatrace-for-performance-management)
 
 <img src="./black-friday-dashboard.PNG">
+
+<img src="./black-friday.png">
