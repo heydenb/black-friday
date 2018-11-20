@@ -9,6 +9,8 @@ Are you looking forward to BLACK FRIDAY as a great opportunity or are you scared
 - What are the consequences of performance degradation?
 - Where are you looking at on your monitor screens? Backend metrics, transactions? What are they telling about the end-to-end user experience?
 
+<img src="./both-bf-screenshots.png">
+
 In order to gain real insights into the user experience of your visitors and potential customers, you thoroughly need Digital Experience Monitoring which tracks all end-to-end flows.
 
 - How is my e-commerce website used?
@@ -25,6 +27,6 @@ With our Digital Experience Monitoring offering based on Dynatrace you have the 
 
 [Let us help you!](https://www.realdolmen.com/en/solution/dynatrace-for-performance-management) [Or try it yourself.](https://www.dynatrace.com/trial/?promocode=REALDOLMEN)
 
-[<img src="./2701_SI_SaasTrialCo-branded_RealDolmen_TW_1024x512_Final.png" width="300px">](https://www.dynatrace.com/trial/?promocode=REALDOLMEN)
+[<img src="./2701_SI_SaasTrialCo-branded_RealDolmen_TW_1024x512_Final.png" width="500px">](https://www.dynatrace.com/trial/?promocode=REALDOLMEN)
 
-<img src="./both-bf-screenshots.png">
+
